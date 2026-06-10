@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-DaDabit2.0
+DaDablock AI
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: DaDabit2.0
+   :caption: DaDablock AI
 
    docs/1_OpenClaw_Overview.md
    Download <>

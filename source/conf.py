@@ -84,7 +84,7 @@ def replace_gfm_callouts(app, docname, source):
 def setup(app):
     app.connect("source-read", replace_gfm_callouts)
 
-project = 'DaDabit2.0'
+project = 'DaDablock AI'
 copyright = '2026, Hiwonder'
 author = 'Hiwonder'
 release = 'v1.0'
