@@ -15,6 +15,17 @@ This Color Scanner features both color sensing and visual display capabilities. 
 
 ### 3.1.3 Assembly Guide
 
+<iframe
+  src="../_static/pdf/01-smart-light-assembly-guide.pdf#view=FitH"
+  title="Assembly Guide PDF"
+  width="100%"
+  height="850"
+  style="border: 1px solid #ddd;"
+  loading="lazy">
+</iframe>
+
+[Open or download the Assembly Guide PDF](../_static/pdf/01-smart-light-assembly-guide.pdf)
+
 
 
 ### 3.1.4 Mode Switching
