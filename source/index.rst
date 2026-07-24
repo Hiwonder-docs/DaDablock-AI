@@ -1,7 +1,7 @@
 DaDablock AI
 ============
 
-.. important::
+.. Note::
 
    Please select your kit version—Starter Kit, Standard Kit, or Ultimate
    Kit—from the version drop-down menu in the top-left sidebar to access
