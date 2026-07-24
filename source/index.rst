@@ -15,4 +15,4 @@ DaDablock AI
    docs/2_Quick_Start.md
    docs/3_Creative_Builds.md
    docs/4_Software_and_Hardware_Guide.md
-   Download <>
+   Download <https://drive.google.com/drive/folders/1PqhPpLeL7V7iqPsGzjQlABjuplIhw97v?usp=sharing>
