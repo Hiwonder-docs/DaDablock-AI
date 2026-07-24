@@ -1,18 +1,8 @@
-.. Test documentation master file, created by
-   sphinx-quickstart on Thu Jul 25 14:39:47 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-===========
 DaDablock AI
-===========
+============
 
-.. toctree::
-   :maxdepth: 2
-   :caption: DaDablock AI
+.. important::
 
-   docs/1_Product_Introduction.md
-   docs/2_Quick_Start.md
-   docs/3_Creative_Builds.md
-   docs/4_Software_and_Hardware_Guide.md
-   Download <>
+   Please select your kit version—Starter Kit, Standard Kit, or Ultimate
+   Kit—from the version drop-down menu in the top-left sidebar to access
+   the corresponding tutorials and resources.
