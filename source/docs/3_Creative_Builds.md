@@ -24,10 +24,6 @@ This Color Scanner features both color sensing and visual display capabilities. 
   loading="lazy">
 </iframe>
 
-[Open or download the Assembly Guide PDF](../_static/pdf/01-smart-light-assembly-guide.pdf)
-
-
-
 ### 3.1.4 Mode Switching
 
 This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
