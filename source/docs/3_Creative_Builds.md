@@ -15,18 +15,11 @@ This Color Scanner features both color sensing and visual display capabilities. 
 
 ### 3.1.3 Assembly Guide
 
-<iframe
-  src="../_static/pdf/01-smart-light-assembly-guide.pdf#view=FitH"
-  title="Assembly Guide PDF"
-  width="100%"
-  height="850"
-  style="border: 1px solid #ddd;"
-  loading="lazy">
-</iframe>
+
 
 ### 3.1.4 Mode Switching
 
-This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.1.5 Wiring Guide
 
@@ -94,7 +87,7 @@ This smart desk lamp features voice-controlled dimming capabilities. Vocal comma
 
 ### 3.2.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.2.5 Wiring Guide
 
@@ -162,7 +155,7 @@ This smart clock features countdown alert capabilities. After configuring the du
 
 ### 3.3.4 Mode Switching
 
-This build requires the online large model. Skip this step and proceed directly to the wiring guide if the **online large model mode** is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the online large model. Skip this step and proceed directly to the wiring guide if the **online large model mode** is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.3.5 Wiring Guide
 
@@ -267,7 +260,7 @@ This adjustable mixer features voice-controlled speed regulation. Vocal commands
 
 ### 3.4.4 Mode Switching
 
-This build requires the **online large model**. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **online large model**. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.4.5 Wiring Guide
 
@@ -281,7 +274,7 @@ The connections are shown in the diagram:
 
 > [!NOTE]
 >
-> **For the initial setup of the 270° block servo, first remove the gear on the servo along with the attached building blocks, and upload the following 270° servo reset program to the ESP32. Next, reattach the removed building blocks, upload the program for this section to the ESP32, and wait for the 270° block servo to rotate to the initial position of 135 degrees. This step can be skipped if the servo reset program has been executed previously.**
+> **For the initial setup of the 270° block servo, first remove the gear on the servo along with the attached building blocks, and upload the following 270° servo reset program to the ESP32. Next, reattach the removed building blocks, upload the program for this section to the ESP32, and wait for the 270° block servo to rotate to the initial position of 135°. This step can be skipped if the servo reset program has been executed previously.**
 
 <div align="center"><img src="../_static/media/chapter_3/section_4/media/image0.png"  class="common_img" style="width:700px;" ></div>
 
@@ -373,7 +366,7 @@ This interactive smart windmill responds directly to vocal cues. Simple voice co
 
 ### 3.5.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.5.5 Wiring Guide
 
@@ -444,7 +437,7 @@ This interactive greeting robot features face recognition capabilities designed 
 
 ### 3.6.4 Mode Switching
 
-This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.6.5 Wiring Guide
 
@@ -530,7 +523,7 @@ This automated barrier gate features facial recognition capabilities for smart a
 
 ### 3.7.4 Mode Switching
 
-This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.7.5 Wiring Guide
 
@@ -610,7 +603,7 @@ This smart Beckoning cat is designed to wave and welcome guests. Upon facial det
 
 ### 3.8.4 Mode Switching
 
-This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline vision function**. Skip this step and proceed directly to the wiring guide if the offline vision mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.8.5 Wiring Guide
 
@@ -692,7 +685,7 @@ This simulated pumpjack features voice-controlled start and stop capabilities. I
 
 ### 3.9.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.9.5 Wiring Guide
 
@@ -763,7 +756,7 @@ This smart cradle features voice-controlled rocking capabilities. Issuing voice 
 
 ### 3.10.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.10.5 Wiring Guide
 
@@ -834,7 +827,7 @@ This catapult features voice-controlled launch capabilities. Issuing voice comma
 
 ### 3.11.4 Mode Switching
 
-This build requires the online large model. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the online large model. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.11.5 Wiring Guide
 
@@ -938,7 +931,7 @@ This miniature swing features voice-controlled swinging capabilities. Issuing vo
 
 ### 3.12.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.12.5 Wiring Guide
 
@@ -1019,7 +1012,7 @@ This robotic drummer features voice-controlled rhythm capabilities. Issuing voic
 
 ### 3.13.4 Mode Switching
 
-This build requires the **online large model**. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **online large model**. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.13.5 Wiring Guide
 
@@ -1115,7 +1108,7 @@ This sawing bot features voice-controlled interactive capabilities. Issuing voic
 
 ### 3.14.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.14.5 Wiring Guide
 
@@ -1194,7 +1187,7 @@ This exercise bike features voice-controlled start capabilities. Issuing voice c
 
 ### 3.15.4 Mode Switching
 
-This build requires the online large model. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the online large model. Skip this step and proceed directly to the wiring guide if the online large model mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.15.5 Wiring Guide
 
@@ -1288,7 +1281,7 @@ This expression-changing device features voice-controlled expression-switching c
 
 ### 3.16.4 Mode Switching
 
-This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update]() section in Chapter 4 to re-flash the corresponding firmware.
+This build requires the **offline voice interaction function**. Skip this step and proceed directly to the wiring guide if the offline voice interaction mode is already active. Otherwise, refer to the [4.5.1 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#id17) section in Chapter 4 to re-flash the corresponding firmware.
 
 ### 3.16.5 Wiring Guide
 

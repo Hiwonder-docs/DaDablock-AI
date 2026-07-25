@@ -6,7 +6,7 @@
 
 > [!NOTE]
 >
-> **This section introduces the WonderLLM module for a quick start. Since there are various ways to play with this module, refer to [Section 4.4 WonderLLM Module]() for detailed learning.**
+> **This section introduces the WonderLLM module for a quick start. Since there are various ways to play with this module, refer to [Section 4.4 WonderLLM Module](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#wonderllm-module) for detailed learning.**
 
 ### 2.1.1 Powering On the Device
 
@@ -251,7 +251,7 @@ Once the program starts running, the two onboard RGB LEDs of the controller swit
 
 > [!NOTE]
 >
-> **The following starter projects introduce the electronic modules used in this kit for a quick start. For a detailed description of the modules, refer to [Section 4.3 Electronic Module Overview]() for detailed information.**
+> **The following starter projects introduce the electronic modules used in this kit for a quick start. For a detailed description of the modules, refer to [Section 4.3 Electronic Module Overview](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#electronic-modules-overview) for detailed information.**
 
 ## 2.5 Starter Project 2: Dual Servos and Dot Matrix Display
 
