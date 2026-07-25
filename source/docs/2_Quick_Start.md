@@ -6,7 +6,7 @@
 
 > [!NOTE]
 >
-> **This section introduces the WonderLLM module for a quick start. Since there are various ways to play with this module, refer to [Section 4.4 WonderLLM Module](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#wonderllm-module) for detailed learning.**
+> **This section introduces the WonderLLM module for a quick start. Since there are various ways to play with this module, refer to [Section 4.4 WonderLLM Module](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/4_Software_and_Hardware_Guide.html#wonderllm-module) for detailed learning.**
 
 ### 2.1.1 Powering On the Device
 
@@ -251,7 +251,7 @@ Once the program starts running, the two onboard RGB LEDs of the controller swit
 
 > [!NOTE]
 >
-> **The following starter projects introduce the electronic modules used in this kit for a quick start. For a detailed description of the modules, refer to [Section 4.3 Electronic Module Overview](https://wiki.hiwonder.com/projects/DaDablock-AI/en/starter-kit/docs/4_Software_and_Hardware_Guide.html#electronic-modules-overview) for detailed information.**
+> **The following starter projects introduce the electronic modules used in this kit for a quick start. For a detailed description of the modules, refer to [Section 4.3 Electronic Module Overview](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/4_Software_and_Hardware_Guide.html#electronic-modules-overview) for detailed information.**
 
 ## 2.5 Starter Project 2: Dual Servos and Dot Matrix Display
 
@@ -294,3 +294,83 @@ The source files are available for download as a zip archive under [1. Source Co
 ### 2.5.5 Program Outcome
 
 Once the program starts running, initialize the dot matrix screen port and set the brightness. Rotate the 270° block servo connected to port **S1** to 135°. Then, execute the loop. First, the dot matrix screen displays pattern **S1** and waits for 2 seconds. The servo at **S1** then rotates to 270° and 0° sequentially, waiting for 2 seconds after each rotation. Next, the dot matrix screen displays pattern **S2** and waits for 2 seconds. The 360° block motor connected to port **S2** then rotates at speed 50, and the dot matrix screen displays the text **ON**. After waiting for 5 seconds, the motor at **S2** stops, and the dot matrix screen displays the number 0.
+
+## 2.6 Starter Project 3: Fan Control
+
+### 2.6.1 Learning Objectives
+
+1. Understand the functions of the fan module and master the control methods for turning the fan on and off.
+
+### 2.6.2 Wiring Diagram
+
+Plug the fan module cable into port 5 of the ESP32 controller, as shown in the diagram:
+
+<div align="center"><img src="../_static/media/chapter_4/section_3/media/subsection_4/image2.png" class="common_img" style="width:400px;"></div>
+
+### 2.6.3 Programming
+
+#### (1) Add Extension Libraries
+
+In the **Choose an Extension** menu, select **Output modules** and add the **Fan module (Black)**.
+
+<div align="center"><img src="../_static/media/chapter_2/section_6/media/image2.png" class="common_img" style="width:800px;"></div>
+
+#### (2) Complete Program
+
+<div align="center"><img src="../_static/media/chapter_4/section_3/media/subsection_4/image3.png" class="common_img" style="width:400px;"></div>
+
+The source files are available for download as a zip archive under [1. Source Code / 03 Program Files for Starter Projects](https://drive.google.com/drive/folders/1C_cT51H9adfUnSPw9l57vPrQQ2A_vUBa?usp=sharing).
+
+### 2.6.4 Downloading the Program
+
+<div align="center"><img src="../_static/media/chapter_2/section_4/media/image6.gif" class="common_img" style="width:800px;"></div>
+
+### 2.6.5 Program Outcome
+
+Once the program starts running, the fan rotates at a speed of 60 and stops after 10 seconds.
+
+## 2.7 Starter Project 4: 4-Channel Line Follower, Temperature and Humidity, Glowing Ultrasonic, and Light Sensor Coordination
+
+### 2.7.1 Learning Objectives
+
+1. Understand the functions of the glowing ultrasonic sensor and master the concept of detecting obstacle distance.
+2. Understand the functions of the light sensor and master the concept of sensing ambient light intensity.
+3. Understand the functions of the temperature and humidity sensor, and learn to read temperature and humidity values.
+4. Understand the functions of the 4-channel line follower sensor and learn to read the detection status of the line follower sensor.
+
+### 2.7.2 Wiring Diagram
+
+1. Plug the 4-channel line follower sensor cable into port 1 of the ESP32 controller.
+
+2. Plug the glowing ultrasonic sensor cable into port 2 of the ESP32 controller.
+
+3. Plug the temperature and humidity sensor cable into port 3 of the ESP32 controller.
+
+4. Plug the light sensor cable into port 5 of the ESP32 controller.
+
+As shown in the diagram:
+
+<div align="center"><img src="../_static/media/chapter_2/section_7/media/image1.png" class="common_img" style="width:400px;"></div>
+
+### 2.7.3 Programming
+
+#### (1) Add Extension Libraries
+
+Select **Sensor** in the **Choose an Extension** interface to add **Glowing ultrasonic sensor**, **Light sensor**, **Temperature and humidity sensor**, and **4-channel line follower sensor**.
+
+<div align="center"><img src="../_static/media/chapter_2/section_7/media/image2.png" class="common_img" style="width:800px;"></div>
+
+#### (2) Complete Program
+
+<div align="center"><img src="../_static/media/chapter_2/section_7/media/image3.png" class="common_img" style="width:500px;"></div>
+
+The source files are available for download as a zip archive under [1. Source Code / 03 Program Files for Starter Projects](https://drive.google.com/drive/folders/1C_cT51H9adfUnSPw9l57vPrQQ2A_vUBa?usp=sharing).
+
+### 2.7.4 Downloading the Program
+
+<div align="center"><img src="../_static/media/chapter_2/section_4/media/image6.gif" class="common_img" style="width:800px;"></div>
+
+### 2.7.5 Program Outcome
+
+Once the program starts running, initialize the 4-channel line follower sensor connected to port 1 and the glowing ultrasonic sensor connected to port 2. Then, execute the loop: if all four probes of the 4-channel line follower sensor detect black lines, the temperature value is printed to the serial port. If the 4-channel line follower sensor detects white ground, the humidity value is printed to the serial port. If the obstacle distance detected by the glowing ultrasonic sensor is less than 20 cm, the light intensity value is printed to the serial port.
+

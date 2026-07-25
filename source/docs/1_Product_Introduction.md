@@ -1,4 +1,4 @@
-# 1. Product Introduction{#DadaBlock-AI}
+# 1. Product Introduction
 
 ## 1.1 Product Introduction
 
@@ -8,7 +8,7 @@ DaDablock AI is a versatile, large AI model building block kit specially designe
 
 ## 1.2 Packing List
 
-<div align="center"><img src="../_static/media/chapter_1/section_2/media/image1.png" class="common_img" style="width:1000px;"></div>
+<div align="center"><img src="../_static/media/chapter_1/section_2/media/image3.png" class="common_img" style="width:1000px;"></div>
 
 ## 1.3 Disclaimer
 
