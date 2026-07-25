@@ -347,7 +347,7 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 > [!NOTE]
 >
-> **Connecting the module to the network is required in three situations: 1. During initial use or after flashing the firmware, when no Wi-Fi credentials are saved in memory. 2. When no hotspot in the environment matches the saved Wi-Fi connection information, as described in [2.1.2 Module Connection](). 3. When manually entering network configuration mode by long-pressing the right button B.**
+> **Connecting the module to the network is required in three situations: 1. During initial use or after flashing the firmware, when no Wi-Fi credentials are saved in memory. 2. When no hotspot in the environment matches the saved Wi-Fi connection information, as described in [2.1.2 Module Network Configuration](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#module-network-configuration). 3. When manually entering network configuration mode by long-pressing the right button B.**
 
 - **<font size="4px">Manually Enter Network Configuration Mode</font>**
 
@@ -373,11 +373,11 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 > [!NOTE]
 >
-> **Two methods are available for device binding: 1. Quick binding, which is described in [2.1.3 Device Binding](). 2. Binding by creating a new AI agent.**
+> **Two methods are available for device binding: 1. Quick binding, which is described in [2.1.3 Device Binding](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#device-binding). 2. Binding by creating a new AI agent.**
 
 - **<font size="4px">Bind by Creating a New Agent</font>**
 
-1. Open a browser and go to `hiwonder.ai`, or click the [WonderHUB AI Chatbot]() link directly. Log in to the WonderHUB AI platform account. If no account exists, refer to [2.1.3 Device Binding]() to register.
+1. Open a browser and go to `hiwonder.ai`, or click the [WonderHUB AI Chatbot](https://hiwonder.ai/) link directly. Log in to the WonderHUB AI platform account. If no account exists, refer to [2.1.3 Device Binding](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#device-binding) to register.
 
 2. Click **Agents** on the left menu to switch to the agents interface.
 
@@ -513,7 +513,7 @@ Speak the command **Confirm delete device** to unbind the device.
 
 2. Wake up the module and enter Chat Mode by speaking the wake word **Hello Hiwonder** or short-pressing the right button, Button B. The buzzer will beep, the screen will switch to the **chat interface**, and the module will start listening.
 
-3. If entering Chat Mode by **speaking the wake word**, the module automatically sends "Hello" to start the conversation once the wake word is recognized. The large language model will generate a greeting, display it in the chat interface, and broadcast it. The greeting can be interrupted to skip it quickly, as detailed in [**4.4.8 Free Chat**](). The module only starts listening for speech after the greeting finishes or is interrupted.
+3. If entering Chat Mode by **speaking the wake word**, the module automatically sends "Hello" to start the conversation once the wake word is recognized. The large language model will generate a greeting, display it in the chat interface, and broadcast it. The greeting can be interrupted to skip it quickly, as detailed in [4.4.8 Free Chat](#anther4.4.8). The module only starts listening for speech after the greeting finishes or is interrupted.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_4/image2.png" width="300"></div>
 
@@ -521,7 +521,7 @@ Speak the command **Confirm delete device** to unbind the device.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_4/image3.png" width="300"></div>
 
-5. During the interaction, the chat interface can be hidden, keeping the expression interface displayed continuously. For details, refer to the instructions in [**4.4.5 Expression Mode**]().
+5. During the interaction, the chat interface can be hidden, keeping the expression interface displayed continuously. For details, refer to the instructions in [4.4.5 Expression Mode](#anther4.4.5).
 
 <p id ="anther4.4.5"></p>
 
@@ -607,7 +607,7 @@ Speak the command **Confirm delete device** to unbind the device.
 
 2. In Camera Mode, the module continuously captures and displays real-time images. The module remains in this mode until another action is taken.
 
-3. In Camera Mode, tap anywhere on the screen to trigger the scene understanding function, as detailed in [**4.4.9 Scene Understanding**]().
+3. In Camera Mode, tap anywhere on the screen to trigger the scene understanding function, as detailed in [4.4.9 Scene Understanding](#anther4.4.9).
 
 <p id ="anther4.4.8"></p>
 
@@ -637,7 +637,7 @@ The module features built-in functions that can be triggered by voice commands d
 | 2 | News broadcast | 5 | Music playback |
 | 3 | Dressing advice |  |  |
 
-For details on how to call the corresponding special functions, refer to [2.1.4 Free Chat]().
+For details on how to call the corresponding special functions, refer to [2.1.4 Smart Chat](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#smart-chat).
 
 <p id ="anther4.4.9"></p>
 
@@ -687,7 +687,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_1/image2.png" width="400"></div>
 
-4. Once the tool opens, click **...** to select the firmware bin file to flash. Choose **WonderLLM_S3_V1.9.0_EN.bin** from the folder **[Appendix/WonderLLM Firmware File/Online]()**.
+4. Once the tool opens, click **...** to select the firmware bin file to flash. Choose **WonderLLM_S3_V1.9.0_EN.bin** from the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Firmware File/Online](https://drive.google.com/drive/folders/1GhlY747Im35TiNxDImEB4xVlcXIDP1lX?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_1/image3.png" width="500"></div>
 
@@ -719,7 +719,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_2/image.png" width="400"></div>
 
-2. Open the file **PACK_UPDATE_TOOL.exe** in the folder **[Appendix/WonderLLM Flashing Tool/CI1302 Firmware Flashing Tool]()**.
+2. Open the file **PACK_UPDATE_TOOL.exe** in the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Flashing Tool/CI1302 Firmware Flashing Tool](https://drive.google.com/drive/folders/1J_IZBq0eLWigoezojcnE9XaKbCIOjJLI?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_2/image1.png" width="500"></div>
 
@@ -727,7 +727,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_2/image2.png" width="500"></div>
 
-4. Click **Select firmware** and choose **CI1302-EN.bin** from the folder **[Appendix/WonderLLM Firmware File/Online]()**.
+4. Click **Select firmware** and choose **CI1302-EN.bin** from the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Firmware File/Online](https://drive.google.com/drive/folders/1GhlY747Im35TiNxDImEB4xVlcXIDP1lX?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_2/image3.png" width="800"></div>
 
@@ -757,7 +757,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_1/image.png" width="400"></div>
 
-2. Open the file **flash_download_tool_3.9.7.exe** in the folder **[Appendix/WonderLLM Flashing Tool/ESP32-S3 Firmware Flashing Tool]()**.
+2. Open the file **flash_download_tool_3.9.7.exe** in the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Flashing Tool/ESP32-S3 Firmware Flashing Tool](https://drive.google.com/drive/folders/1VT4wKRY0sFAQrTcgnuTOps3clNoc88w1?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_1/image1.png" width="500"></div>
 
@@ -765,7 +765,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_1/image2.png" width="400"></div>
 
-4. Once the tool opens, click **...** to select the firmware bin file. Choose **WonderLLM_Echo_K12.bin** from the folder **[Appendix/WonderLLM Firmware File/Offline]()**.
+4. Once the tool opens, click **...** to select the firmware bin file. Choose **WonderLLM_Echo_K12.bin** from the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Firmware File/Offline](https://drive.google.com/drive/folders/1aP3l_tDYIrCMCrs51QaVBYc_gvaAIAeg?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_1/image3.png" width="500"></div>
 
@@ -797,7 +797,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_2/image.png" width="400"></div>
 
-2. Open the file **PACK_UPDATE_TOOL.exe** in the folder **[Appendix/WonderLLM Flashing Tool/CI1302 Firmware Flashing Tool]()**.
+2. Open the file **PACK_UPDATE_TOOL.exe** in the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Flashing Tool/CI1302 Firmware Flashing Tool](https://drive.google.com/drive/folders/1J_IZBq0eLWigoezojcnE9XaKbCIOjJLI?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_2/image1.png" width="500"></div>
 
@@ -805,7 +805,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_2/image2.png" width="500"></div>
 
-4. Click **Select firmware** and choose **CI1302_Echo_K12.bin** from the folder **[Appendix/WonderLLM Firmware File/Offline]()**.
+4. Click **Select firmware** and choose **CI1302_Echo_K12.bin** from the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Firmware File/Offline](https://drive.google.com/drive/folders/1aP3l_tDYIrCMCrs51QaVBYc_gvaAIAeg?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_5/media/subsection_1/sub_2/image3.png" width="800"></div>
 
