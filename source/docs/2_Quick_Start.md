@@ -294,3 +294,37 @@ The source files are available for download as a zip archive under [1. Source Co
 ### 2.5.5 Program Outcome
 
 Once the program starts running, initialize the dot matrix screen port and set the brightness. Rotate the 270° block servo connected to port **S1** to 135°. Then, execute the loop. First, the dot matrix screen displays pattern **S1** and waits for 2 seconds. The servo at **S1** then rotates to 270° and 0° sequentially, waiting for 2 seconds after each rotation. Next, the dot matrix screen displays pattern **S2** and waits for 2 seconds. The 360° block motor connected to port **S2** then rotates at speed 50, and the dot matrix screen displays the text **ON**. After waiting for 5 seconds, the motor at **S2** stops, and the dot matrix screen displays the number 0.
+
+## 2.6 Starter Project 3: Fan Control
+
+### 2.6.1 Learning Objectives
+
+1. Understand the functions of the fan module and master the control methods for turning the fan on and off.
+
+### 2.6.2 Wiring Diagram
+
+Plug the fan module cable into port 5 of the ESP32 controller, as shown in the diagram:
+
+<div align="center"><img src="../_static/media/chapter_4/section_3/media/subsection_4/image2.png" class="common_img" style="width:400px;"></div>
+
+### 2.6.3 Programming
+
+#### (1) Add Extension Libraries
+
+In the **Choose an Extension** menu, select **Output modules** and add the **Fan module (Black)**.
+
+<div align="center"><img src="../_static/media/chapter_2/section_6/media/image2.png" class="common_img" style="width:800px;"></div>
+
+#### (2) Complete Program
+
+<div align="center"><img src="../_static/media/chapter_4/section_3/media/subsection_4/image3.png" class="common_img" style="width:400px;"></div>
+
+The source files are available for download as a zip archive under [1. Source Code / 03 Program Files for Starter Projects](https://drive.google.com/drive/folders/1C_cT51H9adfUnSPw9l57vPrQQ2A_vUBa?usp=sharing).
+
+### 2.6.4 Downloading the Program
+
+<div align="center"><img src="../_static/media/chapter_2/section_4/media/image6.gif" class="common_img" style="width:800px;"></div>
+
+### 2.6.5 Program Outcome
+
+Once the program starts running, the fan rotates at a speed of 60 and stops after 10 seconds.
