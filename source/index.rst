@@ -4,12 +4,12 @@
    contain the root `toctree` directive.
 
 ===========
-DaDablock AI
+Starter Kit
 ===========
 
 .. toctree::
    :maxdepth: 2
-   :caption: DaDablock AI
+   :caption: Starter Kit
 
    docs/1_Product_Introduction.md
    docs/2_Quick_Start.md
