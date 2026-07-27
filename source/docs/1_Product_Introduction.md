@@ -1,4 +1,4 @@
-# 1. Product Introduction{#DadaBlock-AI}
+# 1. Product Introduction
 
 ## 1.1 Product Introduction
 
