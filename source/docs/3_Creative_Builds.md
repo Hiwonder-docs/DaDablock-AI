@@ -165,6 +165,14 @@ This smart clock features countdown alert capabilities. After configuring the du
 
 ### 3.3.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/03_Smart_Desk_Clock.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.3.4 Mode Switching
@@ -270,6 +278,14 @@ This adjustable mixer features voice-controlled speed regulation. Vocal commands
 
 ### 3.4.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/04_Adjustable_Mixer.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.4.4 Mode Switching
@@ -376,6 +392,14 @@ This interactive smart windmill responds directly to vocal cues. Simple voice co
 
 ### 3.5.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/05_Smart_Windmill.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.5.4 Mode Switching
@@ -447,6 +471,14 @@ This interactive greeting robot features face recognition capabilities designed 
 
 ### 3.6.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/06_Greeter_Bot.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.6.4 Mode Switching
@@ -533,6 +565,14 @@ This automated barrier gate features facial recognition capabilities for smart a
 
 ### 3.7.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/07_Welcome_Barrier_Gate.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.7.4 Mode Switching
@@ -613,6 +653,14 @@ This smart Beckoning cat is designed to wave and welcome guests. Upon facial det
 
 ### 3.8.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/08_Smart_Beckoning_Cat.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.8.4 Mode Switching
@@ -695,6 +743,14 @@ This simulated pumpjack features voice-controlled start and stop capabilities. I
 
 ### 3.9.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/09_Pumpjack_Bot.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.9.4 Mode Switching
@@ -766,6 +822,14 @@ This smart cradle features voice-controlled rocking capabilities. Issuing voice 
 
 ### 3.10.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/10_Smart_Cradle.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.10.4 Mode Switching
@@ -837,6 +901,14 @@ This catapult features voice-controlled launch capabilities. Issuing voice comma
 
 ### 3.11.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/11_Smart_Catapult.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.11.4 Mode Switching
@@ -941,6 +1013,14 @@ This miniature swing features voice-controlled swinging capabilities. Issuing vo
 
 ### 3.12.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/12_Smart_Swing.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.12.4 Mode Switching
@@ -1022,6 +1102,14 @@ This robotic drummer features voice-controlled rhythm capabilities. Issuing voic
 
 ### 3.13.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/13_Rhythm_Drummer.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.13.4 Mode Switching
@@ -1118,6 +1206,14 @@ This sawing bot features voice-controlled interactive capabilities. Issuing voic
 
 ### 3.14.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/14_Sawing_Bot.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.14.4 Mode Switching
@@ -1197,6 +1293,14 @@ This exercise bike features voice-controlled start capabilities. Issuing voice c
 
 ### 3.15.3 Assembly Guide
 
+ <iframe
+    src="../_static/pdf/15_Smart_Exercise_Bike.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 
 ### 3.15.4 Mode Switching
@@ -1292,6 +1396,15 @@ This expression-changing device features voice-controlled expression-switching c
 2. Learn to retrieve built-in pattern resources via the ESP32 to complete the fun human-robot interaction project.
 
 ### 3.16.3 Assembly Guide
+
+ <iframe
+    src="../_static/pdf/16_Face-Changing_Bot.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 ### 3.16.4 Mode Switching
 
