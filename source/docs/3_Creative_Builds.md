@@ -90,7 +90,14 @@ This smart desk lamp features voice-controlled dimming capabilities. Vocal comma
 
 ### 3.2.3 Assembly Guide
 
-
+ <iframe
+    src="../_static/pdf/02_Smart_Desk_Lamp.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 ### 3.2.4 Mode Switching
 
