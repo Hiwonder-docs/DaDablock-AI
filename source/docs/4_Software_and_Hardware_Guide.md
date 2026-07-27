@@ -532,7 +532,7 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 > [!NOTE]
 >
-> **Connecting the module to the network is required in three situations: 1. During initial use or after flashing the firmware, when no Wi-Fi credentials are saved in memory. 2. When no hotspot in the environment matches the saved Wi-Fi connection information, as described in [2.1.2 Module Network Configuration](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#module-network-configuration). 3. When manually entering network configuration mode by long-pressing the right button B.**
+> **Connecting the module to the network is required in three situations: 1. During initial use or after flashing the firmware, when no Wi-Fi credentials are saved in memory. 2. When no hotspot in the environment matches the saved Wi-Fi connection information, as described in [2.1.2 Module Network Configuration](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/2_Quick_Start.html#module-network-configuration). 3. When manually entering network configuration mode by long-pressing the right button B.**
 
 - **<font size="4px">Manually Enter Network Configuration Mode</font>**
 
@@ -558,11 +558,11 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 > [!NOTE]
 >
-> **Two methods are available for device binding: 1. Quick binding, which is described in [2.1.3 Device Binding](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#device-binding). 2. Binding by creating a new AI agent.**
+> **Two methods are available for device binding: 1. Quick binding, which is described in [2.1.3 Device Binding](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/2_Quick_Start.html#device-binding). 2. Binding by creating a new AI agent.**
 
 - **<font size="4px">Bind by Creating a New Agent</font>**
 
-1. Open a browser and go to `hiwonder.ai`, or click the [WonderHUB AI Chatbot](https://hiwonder.ai/) link directly. Log in to the WonderHUB AI platform account. If no account exists, refer to [2.1.3 Device Binding](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#device-binding) to register.
+1. Open a browser and go to `hiwonder.ai`, or click the [WonderHUB AI Chatbot](https://hiwonder.ai/) link directly. Log in to the WonderHUB AI platform account. If no account exists, refer to [2.1.3 Device Binding](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/2_Quick_Start.html#device-binding) to register.
 
 2. Click **Agents** on the left menu to switch to the agents interface.
 
@@ -822,7 +822,7 @@ The module features built-in functions that can be triggered by voice commands d
 | 2 | News broadcast | 5 | Music playback |
 | 3 | Dressing advice |  |  |
 
-For details on how to call the corresponding special functions, refer to [2.1.4 Smart Chat](https://wiki.hiwonder.com/projects/DaDablock-AI/en/standard-kit/docs/2_Quick_Start.html#smart-chat).
+For details on how to call the corresponding special functions, refer to [2.1.4 Smart Chat](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/2_Quick_Start.html#smart-chat).
 
 <p id ="anther4.4.9"></p>
 
