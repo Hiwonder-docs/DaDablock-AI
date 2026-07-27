@@ -62,63 +62,63 @@ The corresponding functions are described in the table below:
 
 | Block | Category | Function Description |
 | :---: | :---: | :--- |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image1.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Pauses program execution for a specified duration before proceeding to the next instruction. This is used for action intervals and delay buffering. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image2.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Reads the total runtime of the device in milliseconds since powering on. This is used for timing and delay logic determination. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image3.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Runs the code inside the loop for a specified number of times and exits the loop upon completion. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image4.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Runs the nested instructions inside a loop indefinitely. The program continuously repeats the logic inside the loop. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image5.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Basic conditional statement. Executes the code inside if the condition is met. Otherwise, skips it. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image6.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Dual-branch conditional statement. Executes the code in the `then` branch if the condition is met. Otherwise, executes the code in the `else` branch. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image7.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Pauses program execution for a custom duration. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image8.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Repeatedly executes the code inside the loop until the specified condition is met, then exits the loop. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image9.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Terminates the current loop early and exits to execute the subsequent program. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image10.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Used inside a custom function to return specified data to the function caller. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image1.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Adds two values and returns the result. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image2.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Subtracts one value from another and returns the result. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image3.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Multiplies two values and returns the result. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image4.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Divides one value by another and returns the result. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image5.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Compares two numbers and returns a boolean value of true or false. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image6.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Logical AND operation. The overall result is true only when all conditions are met simultaneously. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image7.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Logical OR operation. The overall result is true if any of the conditions are met. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image8.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Logical NOT operation, which reverses the boolean value, making true become false and vice versa. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image9.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Boolean logical statement that evaluates the input condition as true or false, or performs a NOT operation. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image12.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Checks whether a specified element exists inside a list, tuple, or dictionary, and returns a boolean result. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image13.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Extracts the value associated with the specified key in a dictionary. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image1.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Pauses program execution for a specified duration before proceeding to the next instruction. This is used for action intervals and delay buffering. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image2.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Reads the total runtime of the device in milliseconds since powering on. This is used for timing and delay logic determination. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image3.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Runs the code inside the loop for a specified number of times and exits the loop upon completion. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image4.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Runs the nested instructions inside a loop indefinitely. The program continuously repeats the logic inside the loop. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image5.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Basic conditional statement. Executes the code inside if the condition is met. Otherwise, skips it. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image6.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Dual-branch conditional statement. Executes the code in the `then` branch if the condition is met. Otherwise, executes the code in the `else` branch. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image7.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Pauses program execution for a custom duration. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image8.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Repeatedly executes the code inside the loop until the specified condition is met, then exits the loop. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image9.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Terminates the current loop early and exits to execute the subsequent program. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_1/image10.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_1/image.png"> | Used inside a custom function to return specified data to the function caller. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image1.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Adds two values and returns the result. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image2.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Subtracts one value from another and returns the result. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image3.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Multiplies two values and returns the result. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image4.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Divides one value by another and returns the result. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image5.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Compares two numbers and returns a boolean value of true or false. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image6.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Logical AND operation. The overall result is true only when all conditions are met simultaneously. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image7.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Logical OR operation. The overall result is true if any of the conditions are met. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image8.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Logical NOT operation, which reverses the boolean value, making true become false and vice versa. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image9.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Boolean logical statement that evaluates the input condition as true or false, or performs a NOT operation. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image12.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Checks whether a specified element exists inside a list, tuple, or dictionary, and returns a boolean result. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image13.png" width="300"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Extracts the value associated with the specified key in a dictionary. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image14.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Linearly maps the input value from its original range to a target range to complete the value range conversion. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image10.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Enters or calls text content to generate string data that can be used for concatenation, logic checks, or display. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image15.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Concatenates two strings to output a combined text string. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image10.png" width="150"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Enters or calls text content to generate string data that can be used for concatenation, logic checks, or display. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_2/image15.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Concatenates two strings to output a combined text string. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image16.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_2/image.png"> | Converts the input numerical value into text format, which is used for display or string concatenation. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image1.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Creates a custom variable to store a single piece of data, such as a number or text. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image3.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Reads the data stored in a variable for operations such as calculation, comparison, or output. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image4.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Assigns a value to the specified variable, overwriting the original data. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image3.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Reads the data stored in a variable for operations such as calculation, comparison, or output. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image4.png" width="250"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Assigns a value to the specified variable, overwriting the original data. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image6.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Increments a numerical variable by adding a specified number to its current value. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image2.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Creates an empty list with a custom name to store multiple sets of data. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image8.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Generates an empty list container that can hold various types of data, such as numbers and text, for subsequent operations. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image11.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Clears all stored elements in the target list to reset it. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image12.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Inserts custom content at the specified index in the target list. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image4.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Creates a custom function block, sets the function name, and defines input parameters of number or text type to package and reuse program logic. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image5.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Provides a number or text parameter input value for the custom function. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image6.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Calls the defined custom function block to execute the encapsulated program code. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image2.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Creates a custom function block to encapsulate a segment of reusable program logic. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image3.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Calls the defined custom function to execute the encapsulated program code. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image8.png" width="100"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Generates an empty list container that can hold various types of data, such as numbers and text, for subsequent operations. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image11.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Clears all stored elements in the target list to reset it. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_3/image12.png" width="250"> | <img src="../_static/media/chapter_3/section_0/media/subsection_3/image.png"> | Inserts custom content at the specified index in the target list. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image4.png" width="250"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Creates a custom function block, sets the function name, and defines input parameters of number or text type to package and reuse program logic. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image5.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Provides a number or text parameter input value for the custom function. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image6.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Calls the defined custom function block to execute the encapsulated program code. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image2.png" width="150"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Creates a custom function block to encapsulate a segment of reusable program logic. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_4/image3.png" width="100"> | <img src="../_static/media/chapter_3/section_0/media/subsection_4/image.png"> | Calls the defined custom function to execute the encapsulated program code. |
 
 ### 4.2.4 ESP32 Controller Extension Library Blocks Overview
 
 | Block | Category | Function Description |
 | :---: | :---: | :--- |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image1.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | The main program loop container. It continuously executes the code inside in a loop after the power-on initialization is completed. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image2.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Executes only once after the device is powered on. This is used for startup logic such as hardware initialization and parameter configuration. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image1.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | The main program loop container. It continuously executes the code inside in a loop after the power-on initialization is completed. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image2.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Executes only once after the device is powered on. This is used for startup logic such as hardware initialization and parameter configuration. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image3.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Drives the buzzer to play music of a specified pitch and beat. Running in background mode does not block the execution of subsequent programs. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image4.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Adjusts the volume of the buzzer, with a range of 0 to 100. Larger values indicate higher volume. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image5.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Stops the buzzer from sounding immediately, terminating the currently playing tone or music. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image6.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Controls the RGB light at the specified index, or all RGB lights, to light up in the selected color. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image5.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Stops the buzzer from sounding immediately, terminating the currently playing tone or music. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image6.png" width="300"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Controls the RGB light at the specified index, or all RGB lights, to light up in the selected color. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image7.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Customizes the light color using RGB three-channel values to control the corresponding RGB light to output mixed color light. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image8.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Makes the specified RGB light perform a brightness-fading breathing effect in the selected color, with a customizable dimming cycle. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image9.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Enables the flowing RGB lighting effect that automatically cycles through a multi-color gradient. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image10.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Turns off the specified RGB light or all RGB lights to cut off the light output. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image11.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Prints custom text strings to the computer through the serial port to view debugging information. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image12.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Prints specified numerical values to the computer through the serial port for data debugging. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image13.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Immediately stops the rotation of the 360° block servo on the specified port. |
-| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image14.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Controls the 360° block servo on the specified port to rotate continuously at a custom speed. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image9.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Enables the flowing RGB lighting effect that automatically cycles through a multi-color gradient. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image10.png" width="200"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Turns off the specified RGB light or all RGB lights to cut off the light output. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image11.png" width="250"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Prints custom text strings to the computer through the serial port to view debugging information. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image12.png" width="250"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Prints specified numerical values to the computer through the serial port for data debugging. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image13.png" width="250"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Immediately stops the rotation of the 360° block servo on the specified port. |
+| <img src="../_static/media/chapter_3/section_0/media/subsection_5/image14.png" width="300"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Controls the 360° block servo on the specified port to rotate continuously at a custom speed. |
 | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image15.png"> | <img src="../_static/media/chapter_3/section_0/media/subsection_5/image.png"> | Controls the 270° block servo on the specified port to rotate smoothly to the target angle within a set duration, automatically waiting for the servo to complete the action. |
 
 <p id ="anther4.3"></p>
@@ -338,13 +338,13 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 2. Click **Agents** on the left menu to switch to the agents interface.
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image1.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image1.png" width="1500"></div>
 
 3. Click **Create Agent** to open the agent creation page.
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image2.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image2.png" width="1500"></div>
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image3.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image3.png" width="1500"></div>
 
 4. Agents created by others can be copied using role codes. Simply paste the role code into the input field and click **Apply Code**.
 
@@ -380,13 +380,13 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 12. After creating the agent, return to the agent homepage and click **Manage Devices** under the newly created agent.
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image12.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image12.png" width="1500"></div>
 
 13. Enter the **6-digit device ID** displayed on the module screen into the binding code input field, and then click **Add Device**.
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image13.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image13.png" width="1500"></div>
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image14.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_2/image14.png" width="1500"></div>
 
 <p id ="anther4.4.1.3"></p>
 
@@ -400,11 +400,11 @@ Once the wake word is recognized, the buzzer sounds once, and then interaction c
 
 1. Once logged in, click **Agents**, then click **Device Overview**. Select the device to delete and click **Delete**.
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_3/image1.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_3/image1.png" width="1500"></div>
 
 2. Click **Confirm** to delete and unbind the device.
 
-<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_3/image2.png" width="800"></div>
+<div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_2/sub_3/image2.png" width="1500"></div>
 
 - **<font size="4px">Conversational Unbinding</font>**
 
@@ -636,7 +636,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_1/image.png" width="400"></div>
 
-2. Open the file **flash_download_tool_3.9.7.exe** in the folder **Appendix/WonderLLM Flashing Tool/ESP32-S3 Firmware Flashing Tool/flash_download_tool_3.9.7**.
+2. Open the file **flash_download_tool_3.9.7.exe** in the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Flashing Tool/ESP32-S3 Firmware Flashing Tool/flash_download_tool_3.9.7](https://drive.google.com/drive/folders/1VT4wKRY0sFAQrTcgnuTOps3clNoc88w1?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_1/image1.png" width="500"></div>
 
