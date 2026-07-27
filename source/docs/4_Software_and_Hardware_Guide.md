@@ -679,7 +679,7 @@ Command references are listed below: 1. **Describe what is in front of you**, or
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_1/image.png" width="400"></div>
 
-2. Open the file **flash_download_tool_3.9.7.exe** in the folder **Appendix/WonderLLM Flashing Tool/ESP32-S3 Firmware Flashing Tool/flash_download_tool_3.9.7**.
+2. Open the file **flash_download_tool_3.9.7.exe** in the folder **[Appendix/2. WonderLLM Related Files/WonderLLM Flashing Tool/ESP32-S3 Firmware Flashing Tool/flash_download_tool_3.9.7](https://drive.google.com/drive/folders/1VT4wKRY0sFAQrTcgnuTOps3clNoc88w1?usp=sharing)**.
 
 <div align="center"><img src="../_static/media/chapter_4/section_4/media/subsection_10/sub_1/image1.png" width="500"></div>
 
