@@ -2226,7 +2226,7 @@ This smart weather robot features environmental sensing capabilities. The large 
 
 ### 3.25.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.25.5 Wiring Guide
 
@@ -2350,7 +2350,7 @@ This multifunctional robot car features three distinct features integrated into 
 
 ### 3.26.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.26.5 Wiring Guide
 
@@ -2543,7 +2543,7 @@ This dual-mode robotic vehicle features voice-controlled mobility and smart obst
 
 ### 3.27.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.27.5 Wiring Guide
 
@@ -2709,7 +2709,7 @@ This dual-mode dumper vehicle features smart obstacle detection and voice-assist
 
 ### 3.28.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.28.5 Wiring Guide
 
@@ -2881,7 +2881,7 @@ This walking biped robot features environment-sensing capabilities. It supports 
 
 ### 3.29.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.29.5 Wiring Guide
 
@@ -3042,7 +3042,7 @@ This charging knight robot car features voice-controlled charging sequences. It 
 
 ### 3.30.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.30.5 Wiring Guide
 
@@ -3204,7 +3204,7 @@ This bionic spider robot features dual-mode walking capabilities. It can track l
 
 ### 3.31.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.31.5 Wiring Guide
 
@@ -3351,7 +3351,7 @@ This smart house features integrated home automation. It automatically monitors 
 
 ### 3.32.4 Mode Switching
 
-This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update]() to re-flash the corresponding firmware.
+This model requires the **online large model**. If the online large model mode has already been entered, this step can be skipped to proceed directly to the wiring guide. Otherwise, refer to [4.4.10 Firmware Update](https://wiki.hiwonder.com/projects/DaDablock-AI/en/ultimate-kit/docs/4_Software_and_Hardware_Guide.html#firmware-update) to re-flash the corresponding firmware.
 
 ### 3.32.5 Wiring Guide
 
