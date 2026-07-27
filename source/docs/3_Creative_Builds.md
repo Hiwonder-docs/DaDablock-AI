@@ -15,7 +15,14 @@ This Color Scanner features both color sensing and visual display capabilities. 
 
 ### 3.1.3 Assembly Guide
 
-
+ <iframe
+    src="../_static/pdf/01_Color_Scanner.pdf#view=FitH"
+    title="Assembly Guide PDF"
+    width="100%"
+    height="850"
+    style="border: 1px solid #ddd;"
+    loading="lazy">
+ </iframe>
 
 ### 3.1.4 Mode Switching
 
